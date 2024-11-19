@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirstAppLecture</string>
+    <string name="hint_nickname">Enter your nickname</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="button_select_birth_date">Select birth date</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_prefer_not_to_say">Prefer not to say</string>
+    <string name="hint_height">Enter your height (cm)</string>
+    <string name="hint_weight">Enter your weight (kg)</string>
+    <string name="text_activity_level">Activity Level: </string>
+    <string name="button_save_data">Save Data</string>
+
+    <string name="button_calculate_bmi">Calculate BMI</string>
+    <string name="button_calculate_calories">Calculate Calorie Needs</string>
+    <string name="text_bmi_unknown">Your BMI: unknown</string>
+    <string name="text_bmr_unknown">Your BMR: unknown</string>
+    <string name="go_to_third_activity">Go to Third Activity</string>
+    <string name="welcome_to_the_third_screen">Welcome to the Third Screen!</string>
+    <string name="go_back_button">Go Back</string>
+
+</resources>
